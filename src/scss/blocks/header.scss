@@ -1,0 +1,62 @@
+/*======================================================================
+  header
+======================================================================*/
+
+.header {
+  background-color: #333;
+
+  #search {
+    padding: 7px 0;
+  }
+}
+
+.header__logo {
+  padding: 10px 0;
+}
+
+.header__details {
+  @include list-unstyled;
+  @include clearfix;
+}
+
+.header__details-item {
+  float: left;
+  padding: 15px 14px 11px 0;
+
+  &:nth-child(2n) {
+    padding-right: 0;
+    padding-left: 14px;
+    border-left: 1px solid rgba(255, 255, 255, .1);
+  }
+
+  .dropdown-toggle {
+    display: block;
+    font-size: 14px;
+    color: rgba(255, 255, 255, .4);
+    text-decoration: none;
+
+    &:hover,
+    &:active,
+    &:focus {
+      color: #fff;
+    }
+  }
+
+  .dropdown-menu {
+    padding: 0;
+    margin-top: 3px;
+    border: 0 none;
+    border-radius: 0;
+
+    & > li > a {
+      display: block;
+      transition: .25s;
+
+      &:hover,
+      &:focus {
+        background-color: $theme-color;
+        color: #fff;
+      }
+    }
+  }
+}

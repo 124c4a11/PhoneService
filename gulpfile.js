@@ -25,12 +25,13 @@ $.paths.task.forEach(function(taskPath) {
 $.gulp.task('default', $.gulp.series(
   'clean-styles',
   'clean-images',
+  'clean-fonts',
   $.gulp.parallel(
     'sass',
     //'css:vendor',
     'sprite:png',
     'copy:image',
-    //'copy:fonts',
+    'copy:fonts',
     'sprite:svg'
     //'js:webpack'
   ),
