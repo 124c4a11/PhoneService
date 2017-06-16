@@ -7,6 +7,10 @@
 
   [class*="col-"]{
     padding-left: 0;
+
+    @media only screen and (max-width: 768px) {
+      padding-left: 15px;
+    }
   }
 
   a {
@@ -16,6 +20,17 @@
   .navbar {
     margin-bottom: 0;
     font-size: 14px;
+
+    .toggle-top-text {
+      @include inline-block;
+      padding-top: 19px;
+      @include myriad(semibold);
+      text-transform: uppercase;
+    }
+
+    .navbar-toggle {
+      margin-right: 0;
+    }
 
     .navbar-collapse {
       padding-left: 0;
@@ -35,6 +50,13 @@
     }
   }
 
+  .top-menu__cart-wrapper {
+    @media only screen and (max-width: 768px) {
+      padding-right: 0;
+      padding-left: 0;
+    }
+  }
+
   #cart {
     button {
       padding-top: 14px;
@@ -50,6 +72,3 @@
   }
 }
 
-.top-menu__cart-wrapper {
-  padding-left: 0;
-}
