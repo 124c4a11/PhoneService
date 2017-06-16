@@ -31,6 +31,9 @@
 <script src="catalog/view/javascript/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
 <link href="catalog/view/javascript/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 <link href="catalog/view/theme/phoneservice/stylesheet/stylesheet.css" rel="stylesheet">
+
+              <script src="https://api.fondy.eu/static_common/v1/checkout/ipsp.js"></script>
+			
 <?php foreach ($styles as $style) { ?>
 <link href="<?php echo $style['href']; ?>" type="text/css" rel="<?php echo $style['rel']; ?>" media="<?php echo $style['media']; ?>" />
 <?php } ?>

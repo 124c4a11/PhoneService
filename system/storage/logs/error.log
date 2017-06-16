@@ -1,1 +1,93 @@
 2017-06-13 17:20:35 - PHP Notice:  Error: Could not load template F:/OpenServer/domains/iPhoneService/catalog/view/theme/default/template/common/column_left.tpl! in F:\OpenServer\domains\iPhoneService\system\storage\modification\system\library\template\php.php on line 23
+2017-06-16 15:27:55 - PHP Notice:  Undefined variable: informations in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\header.tpl on line 103
+2017-06-16 15:27:55 - PHP Warning:  Invalid argument supplied for foreach() in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\header.tpl on line 103
+2017-06-16 15:30:22 - PHP Notice:  Undefined variable: informations in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\header.tpl on line 102
+2017-06-16 15:31:41 - PHP Notice:  Undefined variable: text_information in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\header.tpl on line 98
+2017-06-16 15:31:41 - PHP Notice:  Undefined variable: informations in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\header.tpl on line 102
+2017-06-16 16:00:21 - PHP Notice:  Undefined variable: text_information in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\header.tpl on line 98
+2017-06-16 16:00:21 - PHP Notice:  Undefined variable: informations in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\header.tpl on line 102
+2017-06-16 17:05:07 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/cache/cache.language.1497625507): failed to open stream: No such file or directory in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 49
+2017-06-16 17:05:07 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 51
+2017-06-16 17:05:07 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 53
+2017-06-16 17:05:07 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 55
+2017-06-16 17:05:07 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 57
+2017-06-16 17:05:07 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 59
+2017-06-16 17:05:07 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/cache/cache.currency.1497625507): failed to open stream: No such file or directory in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 49
+2017-06-16 17:05:07 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 51
+2017-06-16 17:05:07 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 53
+2017-06-16 17:05:07 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 55
+2017-06-16 17:05:07 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 57
+2017-06-16 17:05:07 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 59
+2017-06-16 17:05:08 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/cache/cache.language.1497625508): failed to open stream: No such file or directory in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 49
+2017-06-16 17:05:08 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 51
+2017-06-16 17:05:08 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 53
+2017-06-16 17:05:08 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 55
+2017-06-16 17:05:08 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 57
+2017-06-16 17:05:08 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 59
+2017-06-16 17:05:08 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/cache/cache.currency.1497625508): failed to open stream: No such file or directory in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 49
+2017-06-16 17:05:08 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 51
+2017-06-16 17:05:08 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 53
+2017-06-16 17:05:08 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 55
+2017-06-16 17:05:08 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 57
+2017-06-16 17:05:08 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 59
+2017-06-16 17:10:12 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/cache/cache.language.1497625812): failed to open stream: No such file or directory in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 49
+2017-06-16 17:10:12 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 51
+2017-06-16 17:10:12 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 53
+2017-06-16 17:10:12 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 55
+2017-06-16 17:10:12 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 57
+2017-06-16 17:10:12 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 59
+2017-06-16 17:10:12 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/cache/cache.currency.1497625812): failed to open stream: No such file or directory in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 49
+2017-06-16 17:10:12 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 51
+2017-06-16 17:10:12 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 53
+2017-06-16 17:10:12 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 55
+2017-06-16 17:10:12 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 57
+2017-06-16 17:10:12 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 59
+2017-06-16 17:10:17 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/cache/cache.language.1497625817): failed to open stream: No such file or directory in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 49
+2017-06-16 17:10:17 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 51
+2017-06-16 17:10:17 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 53
+2017-06-16 17:10:17 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 55
+2017-06-16 17:10:17 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 57
+2017-06-16 17:10:17 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 59
+2017-06-16 17:10:17 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/cache/cache.currency.1497625817): failed to open stream: No such file or directory in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 49
+2017-06-16 17:10:17 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 51
+2017-06-16 17:10:17 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 53
+2017-06-16 17:10:17 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 55
+2017-06-16 17:10:17 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 57
+2017-06-16 17:10:17 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 59
+2017-06-16 17:10:18 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/cache/cache.language.1497625818): failed to open stream: No such file or directory in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 49
+2017-06-16 17:10:18 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 51
+2017-06-16 17:10:18 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 53
+2017-06-16 17:10:18 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 55
+2017-06-16 17:10:18 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 57
+2017-06-16 17:10:18 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 59
+2017-06-16 17:10:18 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/cache/cache.currency.1497625818): failed to open stream: No such file or directory in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 49
+2017-06-16 17:10:18 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 51
+2017-06-16 17:10:18 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 53
+2017-06-16 17:10:18 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 55
+2017-06-16 17:10:18 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 57
+2017-06-16 17:10:18 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\system\library\cache\file.php on line 59
+2017-06-16 17:11:25 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/catalog): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-16 17:11:25 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-16 17:11:25 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-16 17:11:25 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/catalog/manufacturer.php): failed to open stream: Permission denied in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 414
+2017-06-16 17:11:25 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 416
+2017-06-16 17:11:25 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 418
+2017-06-16 17:11:28 - PHP Warning:  unlink(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/catalog/manufacturer.php): Permission denied in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 101
+2017-06-16 17:11:28 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/catalog): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-16 17:11:28 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-16 17:11:28 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-16 17:11:28 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/catalog/manufacturer.php): failed to open stream: Permission denied in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 414
+2017-06-16 17:11:28 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 416
+2017-06-16 17:11:28 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 418
+2017-06-16 17:11:57 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/catalog): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-16 17:11:57 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-16 17:11:57 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-16 17:11:57 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/catalog/manufacturer.php): failed to open stream: Permission denied in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 414
+2017-06-16 17:11:57 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 416
+2017-06-16 17:11:57 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 418
+2017-06-16 17:12:45 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/catalog): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-16 17:12:45 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-16 17:12:45 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-16 17:12:45 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/catalog/manufacturer.php): failed to open stream: Permission denied in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 414
+2017-06-16 17:12:45 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 416
+2017-06-16 17:12:45 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 418

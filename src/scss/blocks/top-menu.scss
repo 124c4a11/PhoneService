@@ -1,0 +1,55 @@
+/*==========================================================================
+  top-menu
+==========================================================================*/
+
+.top-menu {
+  border-bottom: 1px solid #ededed;
+
+  [class*="col-"]{
+    padding-left: 0;
+  }
+
+  a {
+    color: $text-color-base;
+  }
+
+  .navbar {
+    margin-bottom: 0;
+    font-size: 14px;
+
+    .navbar-collapse {
+      padding-left: 0;
+    }
+
+    .navbar-nav {
+      > li > a {
+        padding-top: 14px;
+        padding-bottom: 14px;
+
+        &:focus,
+        &:hover {
+          text-decoration: underline;
+          background-color: transparent;
+        }
+      }
+    }
+  }
+
+  #cart {
+    button {
+      padding-top: 14px;
+      padding-bottom: 15px;
+      border: 0 none;
+      border-radius: 0;
+      font-size: 16px;
+      @include myriad(thin);
+      color: #fff;
+      text-align: left;
+      background-color: $accent-color-2;
+    }
+  }
+}
+
+.top-menu__cart-wrapper {
+  padding-left: 0;
+}
