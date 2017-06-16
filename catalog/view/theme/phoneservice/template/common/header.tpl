@@ -49,7 +49,7 @@
 <header class="header">
   <div class="container">
     <div class="row">
-      <div class="col-md-3">
+      <div class="col-sm-3 col-md-3">
         <div id="logo" class="logo header__logo">
           <?php if ($logo) { ?>
             <?php if ($home == $og_url) { ?>
@@ -62,10 +62,10 @@
           <?php } ?>
         </div>
       </div>
-      <div class="col-md-6"><?php echo $search; ?></div>
-      <div class="col-md-3">
+      <div class="col-sm-5 col-md-6"><?php echo $search; ?></div>
+      <div class="col-sm-4 col-md-3">
         <ul class="header__details">
-          <li class="dropdown header__details-item"><a href="<?php echo $account; ?>" title="<?php echo $text_account; ?>" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> <span class="hidden-xs hidden-sm hidden-md"><?php echo $text_account; ?></span> <span class="caret"></span></a>
+          <li class="dropdown header__details-item"><a href="<?php echo $account; ?>" title="<?php echo $text_account; ?>" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> <span class="hidden-sm hidden-md"><?php echo $text_account; ?></span> <span class="caret"></span></a>
             <ul class="dropdown-menu dropdown-menu-right">
               <?php if ($logged) { ?>
               <li><a href="<?php echo $account; ?>"><?php echo $text_account; ?></a></li>
@@ -80,8 +80,8 @@
             </ul>
           </li>
           <li class="header__details-item">
-            <ul class="contacts-list">
-              <li class="contacts-list__item"><span class="hidden-xs hidden-sm hidden-md"><?php echo $telephone; ?></span></li>
+            <ul class="header__contacts-list contacts-list">
+              <li class="contacts-list__item"><?php echo $telephone; ?></li>
             </ul>
           </li>
         </ul>
