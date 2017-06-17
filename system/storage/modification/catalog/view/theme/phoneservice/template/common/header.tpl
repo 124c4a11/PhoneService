@@ -69,7 +69,7 @@
       <div class="col-sm-5 col-md-6"><?php echo $search; ?></div>
       <div class="col-sm-4 col-md-3">
         <ul class="header__details">
-          <li class="header__login header__details-item  dropdown"><a href="<?php echo $account; ?>" title="<?php echo $text_account; ?>" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> <span class="hidden-sm hidden-md"><?php echo $text_account; ?></span> <span class="caret"></span></a>
+          <li class="header__details-item  dropdown"><a href="<?php echo $account; ?>" title="<?php echo $text_account; ?>" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> <span class="hidden-sm hidden-md"><?php echo $text_account; ?></span> <span class="caret"></span></a>
             <ul class="dropdown-menu dropdown-menu-right">
               <?php if ($logged) { ?>
               <li><a href="<?php echo $account; ?>"><?php echo $text_account; ?></a></li>
@@ -83,7 +83,7 @@
               <?php } ?>
             </ul>
           </li>
-          <li class=" header__contacts header__details-item">
+          <li class="header__details-item">
             <ul class="header__contacts-list contacts-list">
               <li class="contacts-list__item"><?php echo $telephone; ?></li>
             </ul>
