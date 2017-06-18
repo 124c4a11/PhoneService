@@ -13,3 +13,7 @@ body {
   color: $text-color-base;
   -webkit-font-smoothing: antialiased;
 }
+
+a {
+  outline: none !important;
+}

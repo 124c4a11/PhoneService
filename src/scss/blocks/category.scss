@@ -1,0 +1,37 @@
+/*==========================================================================
+  category
+==========================================================================*/
+
+.list-group-item {
+  padding: 12px 15px;
+  border-color: #ededed;
+  border-top: 1px solid transparent;
+  border-bottom: 1px solid transparent;
+
+  &:first-child {
+    border-top: 1px solid #ededed;
+    border-radius: 0;
+  }
+
+  &:last-child {
+    border-bottom: 1px solid #ededed;
+    border-radius: 0;
+  }
+
+  &.active,
+  &.active:focus,
+  &.active:hover {
+    border-color: darken($theme-color, 10%);
+    background-color: darken($theme-color, 10%);
+  }
+}
+
+a.list-group-item:focus,
+a.list-group-item:hover,
+button.list-group-item:focus,
+button.list-group-item:hover {
+  border-color: $theme-color;
+  color: #fff;
+  background-color: $theme-color;
+  transition: all .25s;
+}
