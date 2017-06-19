@@ -37,16 +37,17 @@ module.exports = function() {
       plugins: [
         new $.webpackStream.webpack.NoErrorsPlugin(),
         new $.webpackStream.webpack.optimize.CommonsChunkPlugin({
-          name: 'common',
+          name: 'theme-common',
           minChunks: 2
         }),
         // Global variables
         new $.webpackStream.webpack.ProvidePlugin({
           // fix jQuery plugins
-          $: "jquery",
-          jQuery: "jquery",
-          "window.jQuery": "jquery",
-          IScroll: 'iscroll'
+
+          // $: "jquery",
+          // jQuery: "jquery",
+          // "window.jQuery": "jquery",
+          // IScroll: 'iscroll'
         })
       ]
     };
@@ -61,7 +62,7 @@ module.exports = function() {
         .pipe($.named())
         .pipe($.webpackStream(options, null, done))
         .pipe($.gp.if(!$.isDevelopment, $.gp.uglify()))
-        .pipe($.gulp.dest($.config.root + '/assets/js'))
+        .pipe($.gulp.dest($.config.root + '/theme/phoneservice/js'))
         .on('data', () => {
           if (firstBuildReady) {
             callback();

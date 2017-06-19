@@ -44,6 +44,8 @@
 <?php foreach ($scripts as $script) { ?>
 <script src="<?php echo $script; ?>" type="text/javascript"></script>
 <?php } ?>
+<script src="catalog/view/theme/phoneservice/js/theme-common.js" type="text/javascript"></script>
+<script src="catalog/view/theme/phoneservice/js/theme.js" type="text/javascript"></script>
 <?php foreach ($analytics as $analytic) { ?>
 <?php echo $analytic; ?>
 <?php } ?>

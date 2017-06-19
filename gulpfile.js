@@ -32,8 +32,8 @@ $.gulp.task('default', $.gulp.series(
     'sprite:png',
     'copy:image',
     'copy:fonts',
-    'sprite:svg'
-    //'js:webpack'
+    'sprite:svg',
+    'js:webpack'
   ),
   $.gulp.parallel(
     'watch',
