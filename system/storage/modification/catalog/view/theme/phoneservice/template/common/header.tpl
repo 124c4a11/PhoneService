@@ -99,7 +99,7 @@
 <div id="top" class="top-menu">
   <div class="container">
     <div class="row">
-      <div class="col-sm-9">
+      <div class="col-sm-8 col-md-9">
 
         <nav id="menu" class="navbar">
           <div class="navbar-header"><span class="toggle-top-text hidden-lg hidden-md hidden-sm"><?php echo $text_information; ?>:</span>
@@ -119,7 +119,7 @@
         </nav>
 
       </div>
-      <div class="col-sm-3 top-menu__cart-wrapper">
+      <div class="col-sm-4 col-md-3 top-menu__cart-wrapper">
         <?php echo $cart; ?>
       </div>
     </div>

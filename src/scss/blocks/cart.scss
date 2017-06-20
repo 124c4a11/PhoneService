@@ -8,4 +8,40 @@
       margin-right: 5px;
     }
   }
+
+  .dropdown-menu {
+    width: 460px;
+    padding: 15px;
+    border-radius: 0;
+
+    @media only screen and (max-width: 767px) {
+      width: 100%;
+    }
+
+    .table-striped {
+      img {
+        width: 47px;
+        height: 47px;
+
+        @media only screen and (max-width: 480px) {
+          display: none;
+        }
+      }
+    }
+
+    .btn-danger {
+      width: 20px;
+      height: 20px;
+      padding: 0;
+      border-radius: 10em;
+      font-size: 12px;
+      text-align: center;
+      background-color: #d9534f;
+      outline: none;
+
+      .fa {
+        line-height: 20px;
+      }
+    }
+  }
 }
