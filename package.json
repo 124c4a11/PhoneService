@@ -36,5 +36,6 @@
     "webpack-stream-fixed": "^3.2.2"
   },
   "dependencies": {
+    "jquery.equalheights": "^1.5.3"
   }
 }

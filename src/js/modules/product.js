@@ -1,5 +1,15 @@
 'use strict';
 
+import equalHeights from 'jquery.equalheights';
+
+
+function init() {
+  setWidth();
+
+  $('.product-thumb h4').equalHeights();
+}
+
+
 function setWidth() {
   $('.product-layout > .product-thumb').each(function() {
     var
@@ -14,5 +24,6 @@ function setWidth() {
 }
 
 export default {
-  setWidth: setWidth
+  setWidth: setWidth,
+  init: init
 }
