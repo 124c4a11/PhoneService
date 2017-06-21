@@ -1,0 +1,90 @@
+/*==========================================================================
+  vantage
+==========================================================================*/
+
+$purple: #921ad3;
+$red: #f53737;
+$orange: #ff9320;
+$blue: #0079ff;
+
+.vantage {
+  color: #777;
+}
+
+.vantage__list {
+  @include list-unstyled;
+}
+
+.vantage__item {
+  padding: 15px 7px 15px 40px;
+  margin-bottom: 20px;
+  border: 5px solid #f7f7f7;
+  font-size: 14px;
+  transition: all .25s;
+
+  &:nth-child(1n) {
+    .vantage__item-title {
+      color: $purple;
+    }
+
+    &:hover {
+      border-color: $purple;
+      background-color: $purple;
+    }
+  }
+
+  &:nth-child(2n) {
+    .vantage__item-title {
+      color: $red;
+    }
+
+    &:hover {
+      border-color: $red;
+      background-color: $red;
+    }
+  }
+
+  &:nth-child(3n) {
+    .vantage__item-title {
+      color: $orange;
+    }
+
+    &:hover {
+      border-color: $orange;
+      background-color: $orange;
+    }
+  }
+
+  &:nth-child(4n) {
+    .vantage__item-title {
+      color: $blue;
+    }
+
+    &:hover {
+      border-color: $blue;
+      background-color: $blue;
+    }
+  }
+
+  &:hover {
+    transform: translateY(-5px);
+
+    &,
+    .vantage__item-title {
+      color: #fff;
+    }
+  }
+}
+
+.vantage__item-title {
+  position: relative;
+  margin-bottom: 8px;
+  font-size: 18px;
+  @include myriad(semibold);
+}
+
+.vantage__item-icon {
+  position: absolute;
+  top: 2px;
+  left: -29px;
+}
