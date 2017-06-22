@@ -117,3 +117,11 @@
 2017-06-21 13:57:06 - PHP Notice:  Error: Could not load template F:/OpenServer/domains/iPhoneService/admin/view/template/extension/module/vantage.tpl! in F:\OpenServer\domains\iPhoneService\system\storage\modification\system\library\template\php.php on line 23
 2017-06-21 13:57:14 - PHP Notice:  Error: Could not load template F:/OpenServer/domains/iPhoneService/admin/view/template/extension/module/vantage.tpl! in F:\OpenServer\domains\iPhoneService\system\storage\modification\system\library\template\php.php on line 23
 2017-06-21 13:58:02 - PHP Notice:  Error: Could not load template F:/OpenServer/domains/iPhoneService/admin/view/template/extension/module/vantage.tpl! in F:\OpenServer\domains\iPhoneService\system\storage\modification\system\library\template\php.php on line 23
+2017-06-22 16:00:47 - PHP Notice:  Undefined index: text_warranty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\module\vantage.php on line 176
+2017-06-22 16:00:47 - PHP Notice:  Undefined index: icon_warranty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\module\vantage.php on line 184
+2017-06-22 16:00:47 - PHP Notice:  Undefined index: text_service in F:\OpenServer\domains\iPhoneService\admin\controller\extension\module\vantage.php on line 192
+2017-06-22 16:00:47 - PHP Notice:  Undefined index: icon_service in F:\OpenServer\domains\iPhoneService\admin\controller\extension\module\vantage.php on line 200
+2017-06-22 16:00:47 - PHP Notice:  Undefined index: text_prices in F:\OpenServer\domains\iPhoneService\admin\controller\extension\module\vantage.php on line 208
+2017-06-22 16:00:47 - PHP Notice:  Undefined index: icon_prices in F:\OpenServer\domains\iPhoneService\admin\controller\extension\module\vantage.php on line 216
+2017-06-22 16:00:47 - PHP Notice:  Undefined index: text_delivery in F:\OpenServer\domains\iPhoneService\admin\controller\extension\module\vantage.php on line 224
+2017-06-22 16:00:47 - PHP Notice:  Undefined index: icon_delivery in F:\OpenServer\domains\iPhoneService\admin\controller\extension\module\vantage.php on line 232

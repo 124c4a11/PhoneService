@@ -13,7 +13,12 @@ $_['entry_name']       = 'Название модуля';
 $_['entry_status']     = 'Статус';
 
 //Custom Field
-$_['custom_field']       = 'Field';
+$_['custom_text']       = 'Текст';
+$_['custom_icon']       = 'Суффикс FA ионки';
+$_['custom_warranty']       = 'Гарантия качества';
+$_['custom_service']       = 'Отличный сервис';
+$_['custom_prices']       = 'Привлекательные цены';
+$_['custom_delivery']       = 'Гарантия доставки';
 
 // Text
 $_['text_module']      = 'Modules';

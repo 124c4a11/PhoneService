@@ -27,9 +27,8 @@
 				<h3 class="panel-title"><i class="fa fa-cogs"></i> <?php echo $heading_title; ?></h3>
 			</div>
 			<div class="panel-body">
-				<p><?php echo $placeholder; ?></p>
 				<form action="<?php echo $action; ?>" method="post" enctype="multipart/form-data" id="form-starter" class="form-horizontal">
-					
+
 					<div class="form-group">
 						<label class="col-sm-2 control-label" for="input-name"><?php echo $entry_name; ?></label>
 						<div class="col-sm-10">
@@ -56,12 +55,144 @@
 					</div>
 
 					<div class="form-group">
-						<label class="col-sm-2 control-label" for="input-field"><?php echo $custom_field; ?></label>
-						<div class="col-sm-10">
-							<input type="text" name="field" value="<?php echo $field; ?>" placeholder="<?php echo $custom_field; ?>" id="input-field" class="form-control" />
-							<?php if ($error_field) { ?>
-							<div class="text-danger"><?php echo $error_field; ?></div>
-							<?php } ?>
+						<div class="col-sm-10 col-sm-offset-2">
+							<ul class="nav nav-tabs">
+								<li class="active">
+									<a aria-expended="true" href="#tab-vantage-1" data-toggle="tab">
+										<?php echo $custom_warranty ?>
+									</a>
+								</li>
+								<li>
+									<a aria-expended="false" href="#tab-vantage-2" data-toggle="tab">
+										<?php echo $custom_service ?>
+									</a>
+								</li>
+								<li>
+									<a aria-expended="false" href="#tab-vantage-3" data-toggle="tab">
+										<?php echo $custom_prices ?>
+									</a>
+								</li>
+								<li>
+									<a aria-expended="false" href="#tab-vantage-4" data-toggle="tab">
+										<?php echo $custom_delivery ?>
+									</a>
+								</li>
+							</ul>
+
+							<div class="tab-content">
+								<div id="tab-vantage-1" class="tab-pane active">
+									<div class="form-group">
+										<label for="input-text-warranty" class="col-sm-2 control-label">
+											<?php echo $custom_text; ?>
+										</label>
+										<div class="col-sm-10">
+											<input id="input-text-warranty" class="form-control" type="text" name="text_warranty" value="<?php echo $text_warranty; ?>" placeholder="<?php echo $custom_text; ?>">
+											<?php if ($error_text_warranty) { ?>
+												<div class="text-danger">
+													<?php echo $error_text_warranty; ?>
+												</div>
+											<?php } ?>
+										</div>
+									</div>
+									<div class="form-group">
+										<label for="input-icon-warranty" class="col-sm-2 control-label">
+											<?php echo $custom_icon; ?>
+										</label>
+										<div class="col-sm-10">
+											<input id="input-icon-warranty" class="form-control" type="text" name="icon_warranty" value="<?php echo $icon_warranty; ?>" placeholder="<?php echo $custom_icon; ?>">
+											<?php if ($error_icon_warranty) { ?>
+												<div class="text-danger">
+													<?php echo $error_icon_warranty; ?>
+												</div>
+											<?php } ?>
+										</div>
+									</div>
+								</div>
+								<div id="tab-vantage-2" class="tab-pane">
+									<div class="form-group">
+										<label for="input-text-service" class="col-sm-2 control-label">
+											<?php echo $custom_text; ?>
+										</label>
+										<div class="col-sm-10">
+											<input id="input-text-service" class="form-control" type="text" name="text_service" value="<?php echo $text_service; ?>" placeholder="<?php echo $custom_text; ?>">
+											<?php if ($error_text_service) { ?>
+												<div class="text-danger">
+													<?php echo $error_text_service; ?>
+												</div>
+											<?php } ?>
+										</div>
+									</div>
+									<div class="form-group">
+										<label for="input-icon-service" class="col-sm-2 control-label">
+											<?php echo $custom_icon; ?>
+										</label>
+										<div class="col-sm-10">
+											<input id="input-icon-service" class="form-control" type="text" name="icon_service" value="<?php echo $icon_service; ?>" placeholder="<?php echo $custom_icon; ?>">
+											<?php if ($error_icon_service) { ?>
+												<div class="text-danger">
+													<?php echo $error_icon_service; ?>
+												</div>
+											<?php } ?>
+										</div>
+									</div>
+								</div>
+								<div id="tab-vantage-3" class="tab-pane">
+									<div class="form-group">
+										<label for="input-text-prices" class="col-sm-2 control-label">
+											<?php echo $custom_text; ?>
+										</label>
+										<div class="col-sm-10">
+											<input id="input-text-prices" class="form-control" type="text" name="text_prices" value="<?php echo $text_prices; ?>" placeholder="<?php echo $custom_text; ?>">
+											<?php if ($error_text_prices) { ?>
+												<div class="text-danger">
+													<?php echo $error_text_prices; ?>
+												</div>
+											<?php } ?>
+										</div>
+									</div>
+									<div class="form-group">
+										<label for="input-icon-prices" class="col-sm-2 control-label">
+											<?php echo $custom_icon; ?>
+										</label>
+										<div class="col-sm-10">
+											<input id="input-icon-prices" class="form-control" type="text" name="icon_prices" value="<?php echo $icon_prices; ?>" placeholder="<?php echo $custom_icon; ?>">
+											<?php if ($error_icon_prices) { ?>
+												<div class="text-danger">
+													<?php echo $error_icon_prices; ?>
+												</div>
+											<?php } ?>
+										</div>
+									</div>
+								</div>
+								<div id="tab-vantage-4" class="tab-pane">
+									<div class="form-group">
+										<label for="input-text-delivery" class="col-sm-2 control-label">
+											<?php echo $custom_text; ?>
+										</label>
+										<div class="col-sm-10">
+											<input id="input-text-delivery" class="form-control" type="text" name="text_delivery" value="<?php echo $text_delivery; ?>" placeholder="<?php echo $custom_text; ?>">
+											<?php if ($error_text_delivery) { ?>
+												<div class="text-danger">
+													<?php echo $error_text_delivery; ?>
+												</div>
+											<?php } ?>
+										</div>
+									</div>
+									<div class="form-group">
+										<label for="input-icon-delivery" class="col-sm-2 control-label">
+											<?php echo $custom_icon; ?>
+										</label>
+										<div class="col-sm-10">
+											<input id="input-icon-delivery" class="form-control" type="text" name="icon_delivery" value="<?php echo $icon_delivery; ?>" placeholder="<?php echo $custom_icon; ?>">
+											<?php if ($error_icon_delivery) { ?>
+												<div class="text-danger">
+													<?php echo $error_icon_delivery; ?>
+												</div>
+											<?php } ?>
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>
 

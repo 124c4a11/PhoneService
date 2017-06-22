@@ -38,7 +38,12 @@ class ControllerExtensionModuleVantage extends Controller {
 			'error_name',
 			'entry_name',
 			'entry_status',
-			'custom_field',
+			'custom_text',
+			'custom_warranty',
+			'custom_icon',
+			'custom_service',
+			'custom_prices',
+			'custom_delivery'
 			);
 
 		foreach ($text_strings as $text) {
@@ -59,10 +64,52 @@ class ControllerExtensionModuleVantage extends Controller {
 			$data['error_name'] = '';
 		}
 
-		if (isset($this->error['field'])) {
-			$data['error_field'] = $this->error['field'];
+		if (isset($this->error['text_warranty'])) {
+			$data['error_text_warranty'] = $this->error['text_warranty'];
 		} else {
-			$data['error_field'] = '';
+			$data['error_text_warranty'] = '';
+		}
+
+		if (isset($this->error['icon_warranty'])) {
+			$data['error_icon_warranty'] = $this->error['icon_warranty'];
+		} else {
+			$data['error_icon_warranty'] = '';
+		}
+
+		if (isset($this->error['text_service'])) {
+			$data['error_text_service'] = $this->error['text_service'];
+		} else {
+			$data['error_text_service'] = '';
+		}
+
+		if (isset($this->error['icon_service'])) {
+			$data['error_icon_service'] = $this->error['icon_service'];
+		} else {
+			$data['error_icon_service'] = '';
+		}
+
+		if (isset($this->error['text_prices'])) {
+			$data['error_text_prices'] = $this->error['text_prices'];
+		} else {
+			$data['error_text_prices'] = '';
+		}
+
+		if (isset($this->error['icon_prices'])) {
+			$data['error_icon_prices'] = $this->error['icon_prices'];
+		} else {
+			$data['error_icon_prices'] = '';
+		}
+
+		if (isset($this->error['text_delivery'])) {
+			$data['error_text_delivery'] = $this->error['text_delivery'];
+		} else {
+			$data['error_text_delivery'] = '';
+		}
+
+		if (isset($this->error['icon_delivery'])) {
+			$data['error_icon_delivery'] = $this->error['icon_delivery'];
+		} else {
+			$data['error_icon_delivery'] = '';
 		}
 
 		$data['breadcrumbs'] = array();
@@ -129,12 +176,68 @@ class ControllerExtensionModuleVantage extends Controller {
 
 		// Custom module fields
 
-		if (isset($this->request->post['field'])) {
-			$data['field'] = $this->request->post['field'];
+		if (isset($this->request->post['text_warranty'])) {
+			$data['text_warranty'] = $this->request->post['text_warranty'];
 		} elseif (!empty($module_info)) {
-			$data['field'] = $module_info['field'];
+			$data['text_warranty'] = $module_info['text_warranty'];
 		} else {
-			$data['field'] = '';
+			$data['text_warranty'] = '';
+		}
+
+		if (isset($this->request->post['icon_warranty'])) {
+			$data['icon_warranty'] = $this->request->post['icon_warranty'];
+		} elseif (!empty($module_info)) {
+			$data['icon_warranty'] = $module_info['icon_warranty'];
+		} else {
+			$data['icon_warranty'] = '';
+		}
+
+		if (isset($this->request->post['text_service'])) {
+			$data['text_service'] = $this->request->post['text_service'];
+		} elseif (!empty($module_info)) {
+			$data['text_service'] = $module_info['text_service'];
+		} else {
+			$data['text_service'] = '';
+		}
+
+		if (isset($this->request->post['icon_service'])) {
+			$data['icon_service'] = $this->request->post['icon_service'];
+		} elseif (!empty($module_info)) {
+			$data['icon_service'] = $module_info['icon_service'];
+		} else {
+			$data['icon_service'] = '';
+		}
+
+		if (isset($this->request->post['text_prices'])) {
+			$data['text_prices'] = $this->request->post['text_prices'];
+		} elseif (!empty($module_info)) {
+			$data['text_prices'] = $module_info['text_prices'];
+		} else {
+			$data['text_prices'] = '';
+		}
+
+		if (isset($this->request->post['icon_prices'])) {
+			$data['icon_prices'] = $this->request->post['icon_prices'];
+		} elseif (!empty($module_info)) {
+			$data['icon_prices'] = $module_info['icon_prices'];
+		} else {
+			$data['icon_prices'] = '';
+		}
+
+		if (isset($this->request->post['text_delivery'])) {
+			$data['text_delivery'] = $this->request->post['text_delivery'];
+		} elseif (!empty($module_info)) {
+			$data['text_delivery'] = $module_info['text_delivery'];
+		} else {
+			$data['text_delivery'] = '';
+		}
+
+		if (isset($this->request->post['icon_delivery'])) {
+			$data['icon_delivery'] = $this->request->post['icon_delivery'];
+		} elseif (!empty($module_info)) {
+			$data['icon_delivery'] = $module_info['icon_delivery'];
+		} else {
+			$data['icon_delivery'] = '';
 		}
 
 		//Prepare for display
@@ -151,12 +254,40 @@ class ControllerExtensionModuleVantage extends Controller {
 			$this->error['warning'] = $this->language->get('error_permission');
 		}
 
-		if ((utf8_strlen($this->request->post['name']) < 3) || (utf8_strlen($this->request->post['name']) > 64)) {
+		if ((utf8_strlen($this->request->post['name']) < 3) || (utf8_strlen($this->request->post['name']) > 128)) {
 			$this->error['name'] = $this->language->get('error_name');
 		}
 
-		if ((utf8_strlen($this->request->post['field']) < 3) || (utf8_strlen($this->request->post['field']) > 64)) {
-			$this->error['field'] = $this->language->get('error_field');
+		if ((utf8_strlen($this->request->post['text_warranty']) < 3) || (utf8_strlen($this->request->post['text_warranty']) > 128)) {
+			$this->error['text_warranty'] = $this->language->get('error_text_warranty');
+		}
+
+		if ((utf8_strlen($this->request->post['icon_warranty']) < 2) || (utf8_strlen($this->request->post['icon_warranty']) > 32)) {
+			$this->error['icon_warranty'] = $this->language->get('error_icon_warranty');
+		}
+
+		if ((utf8_strlen($this->request->post['text_service']) < 3) || (utf8_strlen($this->request->post['text_service']) > 128)) {
+			$this->error['text_service'] = $this->language->get('error_text_service');
+		}
+
+		if ((utf8_strlen($this->request->post['icon_service']) < 2) || (utf8_strlen($this->request->post['icon_service']) > 32)) {
+			$this->error['icon_service'] = $this->language->get('error_icon_service');
+		}
+
+		if ((utf8_strlen($this->request->post['text_prices']) < 3) || (utf8_strlen($this->request->post['text_prices']) > 128)) {
+			$this->error['text_prices'] = $this->language->get('error_text_prices');
+		}
+
+		if ((utf8_strlen($this->request->post['icon_prices']) < 2) || (utf8_strlen($this->request->post['icon_prices']) > 32)) {
+			$this->error['icon_prices'] = $this->language->get('error_icon_prices');
+		}
+
+		if ((utf8_strlen($this->request->post['text_delivery']) < 3) || (utf8_strlen($this->request->post['text_delivery']) > 128)) {
+			$this->error['text_delivery'] = $this->language->get('error_text_delivery');
+		}
+
+		if ((utf8_strlen($this->request->post['icon_delivery']) < 2) || (utf8_strlen($this->request->post['icon_delivery']) > 32)) {
+			$this->error['icon_delivery'] = $this->language->get('error_icon_delivery');
 		}
 
 		return !$this->error;
