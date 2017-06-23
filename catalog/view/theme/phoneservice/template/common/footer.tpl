@@ -1,5 +1,5 @@
 <footer class="main-footer">
-  <div class="footer-content">
+  <div class="main-footer__navbar">
     <div class="container">
       <div class="row">
 
@@ -14,7 +14,7 @@
         </div>
 
         <div class="hidden-xs hidden-sm col-md-7">
-          <nav class="footer-menu">
+          <nav class="main-footer__menu">
             <?php if ($informations) { ?>
                 <ul class="nav navbar-nav">
                   <?php foreach ($informations as $information) { ?>
@@ -28,7 +28,7 @@
         </div>
 
         <div class="col-sm-6 col-md-2">
-          <ul class="socials">
+          <ul class="socials socials_right">
             <li class="socials__item">
               <a href="http://vk.com" class="socials__link" rel="nofollow" target="_blank">
                 <i class="socials__icon fa fa-vk"></i>
@@ -51,15 +51,13 @@
     </div>
   </div>
 
-  <div class="footer-phone">
+  <div class="main-footer__phones">
     <div class="container">
       <div class="row">
         <div class="col-sm-12">
 
-          <div class="site-phone-wrap">
-            <div class="site-phone"><?php echo $telephone; ?></div>
-            <a class="callback-link" href="#callback">Заказать звонок</a>
-          </div>
+          <div class="main-footer__phone"><?php echo $telephone; ?></div>
+          <a class="main-footer__callback-link" href="#callback">Заказать звонок</a>
 
         </div>
       </div>

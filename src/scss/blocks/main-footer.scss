@@ -1,0 +1,86 @@
+/*==========================================================================
+  main-footer
+==========================================================================*/
+
+.main-footer {
+  margin-top: 60px;
+}
+
+.main-footer__navbar {
+  padding: 7px 0;
+  background-color: #333;
+
+  > .container {
+    > .row {
+      > div:last-child {
+        border-left: 1px solid #444;
+      }
+    }
+  }
+
+  .logo {
+    padding: 5px 0;
+
+    @media only screen and (max-width: 767px) {
+      margin-bottom: 10px;
+    }
+
+    img {
+      @media only screen and (max-width: 767px) {
+        margin: 0 auto;
+      }
+    }
+  }
+}
+
+.main-footer__menu {
+  ul {
+    display: block;
+    float: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+
+    li {
+      float: none;
+      @include inline-block;
+      font-size: 14px;
+
+      a {
+        padding: 10px 14px;
+        color: #999;
+        transition: .25s;
+
+        &:hover,
+        &:focus {
+          color: #b6b6b6;
+          text-decoration: underline;
+          background-color: transparent;
+        }
+      }
+    }
+  }
+}
+
+.main-footer__phones {
+  padding: 25px 0;
+  @include myriad(thin);
+  color: #c8c8c8;
+  text-align: center;
+  background-color: #262626;
+}
+
+.main-footer__phone {
+  font-size: 22px;
+}
+
+.main-footer__callback-link {
+  font-size: 14px;
+  color: #999;
+  transition: .25;
+
+  &:hover,
+  &:focus {
+    color: lighten(#999, 10%);
+  }
+}
