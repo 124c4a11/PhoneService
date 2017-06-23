@@ -125,3 +125,290 @@
 2017-06-22 16:00:47 - PHP Notice:  Undefined index: icon_prices in F:\OpenServer\domains\iPhoneService\admin\controller\extension\module\vantage.php on line 216
 2017-06-22 16:00:47 - PHP Notice:  Undefined index: text_delivery in F:\OpenServer\domains\iPhoneService\admin\controller\extension\module\vantage.php on line 224
 2017-06-22 16:00:47 - PHP Notice:  Undefined index: icon_delivery in F:\OpenServer\domains\iPhoneService\admin\controller\extension\module\vantage.php on line 232
+2017-06-22 17:17:25 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:17:25 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:17:25 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:17:36 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:17:36 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:17:36 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:20:09 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:20:09 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:20:09 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:23:58 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:23:58 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:23:58 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:25:38 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:25:38 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:25:38 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:27:31 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:27:31 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:27:31 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:27:45 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:27:45 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:27:45 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:31:18 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:31:18 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:31:18 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:31:22 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:31:23 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:31:23 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:31:55 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:31:55 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:31:55 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:32:23 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:32:23 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:32:23 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:34:00 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:34:00 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:34:00 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:34:32 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:34:32 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:34:32 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:36:32 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:36:32 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:36:32 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:37:26 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:37:26 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:37:26 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:38:12 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:38:13 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:38:13 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:40:15 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:40:15 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:40:15 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:41:04 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:41:04 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:41:04 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:44:03 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:44:03 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:44:03 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:45:14 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:45:14 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:45:14 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:45:57 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:45:57 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:45:57 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:46:28 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:46:28 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:46:28 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:46:49 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:46:49 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:46:49 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:47:08 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:47:08 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:47:08 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:48:13 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:48:13 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:48:13 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:48:25 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:48:25 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:48:25 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:49:35 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:49:35 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:49:35 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:50:37 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:50:37 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:50:37 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:56:26 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 17:56:26 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 17:56:26 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 18:00:01 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 18:00:01 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 18:00:01 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 18:00:01 - PHP Notice:  Undefined variable: telephone in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 110
+2017-06-22 18:00:21 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 18:00:21 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 18:00:21 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 18:00:21 - PHP Notice:  Undefined variable: telephone in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 110
+2017-06-22 18:01:49 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-22 18:01:49 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 18:01:49 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-22 18:01:49 - PHP Notice:  Undefined variable: telephone in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 109
+2017-06-23 13:25:00 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 53
+2017-06-23 13:25:00 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-23 13:25:00 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 60
+2017-06-23 13:25:00 - PHP Notice:  Undefined variable: telephone in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 109
+2017-06-23 13:50:15 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 8
+2017-06-23 13:50:15 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 13:50:15 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 13:50:15 - PHP Notice:  Undefined variable: telephone in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 64
+2017-06-23 14:02:31 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 8
+2017-06-23 14:02:31 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:02:31 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:02:31 - PHP Notice:  Undefined variable: telephone in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 64
+2017-06-23 14:05:22 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 8
+2017-06-23 14:05:22 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:05:22 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:05:22 - PHP Notice:  Undefined variable: telephone in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 64
+2017-06-23 14:05:24 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 8
+2017-06-23 14:05:24 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:05:24 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:05:24 - PHP Notice:  Undefined variable: telephone in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 64
+2017-06-23 14:05:26 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 8
+2017-06-23 14:05:26 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:05:26 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:05:26 - PHP Notice:  Undefined variable: telephone in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 64
+2017-06-23 14:05:27 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 8
+2017-06-23 14:05:27 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:05:27 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:05:27 - PHP Notice:  Undefined variable: telephone in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 64
+2017-06-23 14:05:28 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 8
+2017-06-23 14:05:28 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:05:28 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:05:28 - PHP Notice:  Undefined variable: telephone in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 64
+2017-06-23 14:05:29 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 8
+2017-06-23 14:05:29 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:05:29 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:05:29 - PHP Notice:  Undefined variable: telephone in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 64
+2017-06-23 14:05:41 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 8
+2017-06-23 14:05:41 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:05:41 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:05:41 - PHP Notice:  Undefined variable: telephone in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 64
+2017-06-23 14:05:42 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 8
+2017-06-23 14:05:42 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:05:42 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:05:42 - PHP Notice:  Undefined variable: telephone in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 64
+2017-06-23 14:07:45 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 8
+2017-06-23 14:07:45 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:07:45 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:07:45 - PHP Notice:  Undefined variable: telephone in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 64
+2017-06-23 14:07:46 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 8
+2017-06-23 14:07:46 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:07:46 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:07:46 - PHP Notice:  Undefined variable: telephone in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 64
+2017-06-23 14:07:47 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 8
+2017-06-23 14:07:47 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:07:47 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:07:47 - PHP Notice:  Undefined variable: telephone in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 64
+2017-06-23 14:07:49 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 8
+2017-06-23 14:07:49 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:07:49 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:07:49 - PHP Notice:  Undefined variable: telephone in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 64
+2017-06-23 14:07:49 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 8
+2017-06-23 14:07:49 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:07:49 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:07:49 - PHP Notice:  Undefined variable: telephone in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 64
+2017-06-23 14:07:51 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 8
+2017-06-23 14:07:51 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:07:51 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:07:51 - PHP Notice:  Undefined variable: telephone in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 64
+2017-06-23 14:07:52 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 8
+2017-06-23 14:07:52 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:07:52 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:07:52 - PHP Notice:  Undefined variable: telephone in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 64
+2017-06-23 14:08:56 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 8
+2017-06-23 14:08:56 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:08:56 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:08:56 - PHP Notice:  Undefined variable: telephone in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 64
+2017-06-23 14:08:57 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 8
+2017-06-23 14:08:57 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:08:57 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:08:57 - PHP Notice:  Undefined variable: telephone in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 64
+2017-06-23 14:09:59 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/catalog/controller/account): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:09:59 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/catalog/controller): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:09:59 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/catalog): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:10:00 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/modification/catalog/controller/account/order.php): failed to open stream: Permission denied in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 414
+2017-06-23 14:10:00 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 416
+2017-06-23 14:10:00 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 418
+2017-06-23 14:10:08 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/catalog): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:10:08 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:10:08 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:10:09 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/catalog/manufacturer.php): failed to open stream: Permission denied in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 414
+2017-06-23 14:10:09 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 416
+2017-06-23 14:10:09 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 418
+2017-06-23 14:10:36 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 8
+2017-06-23 14:10:36 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:10:36 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:10:36 - PHP Notice:  Undefined variable: telephone in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 64
+2017-06-23 14:11:40 - PHP Notice:  Undefined variable: logo in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 8
+2017-06-23 14:11:40 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:11:40 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 15
+2017-06-23 14:11:40 - PHP Notice:  Undefined variable: telephone in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 64
+2017-06-23 14:13:06 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/catalog): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:13:06 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:13:06 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:13:06 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/catalog/manufacturer.php): failed to open stream: Permission denied in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 414
+2017-06-23 14:13:06 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 416
+2017-06-23 14:13:06 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 418
+2017-06-23 14:13:08 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/sale): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:13:08 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:13:08 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:13:08 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/sale/order.php): failed to open stream: Permission denied in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 414
+2017-06-23 14:13:08 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 416
+2017-06-23 14:13:08 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 418
+2017-06-23 14:13:11 - PHP Warning:  unlink(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/sale/order.php): Permission denied in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 101
+2017-06-23 14:13:11 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/sale): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:13:11 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/catalog): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:13:11 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:13:11 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:13:11 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/sale/order.php): failed to open stream: Permission denied in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 414
+2017-06-23 14:13:11 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 416
+2017-06-23 14:13:11 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 418
+2017-06-23 14:13:11 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/catalog/manufacturer.php): failed to open stream: Permission denied in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 414
+2017-06-23 14:13:11 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 416
+2017-06-23 14:13:11 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 418
+2017-06-23 14:13:22 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/model/sale): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:13:22 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/model): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:13:22 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:13:22 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/model/sale/order.php): failed to open stream: Permission denied in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 414
+2017-06-23 14:13:22 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 416
+2017-06-23 14:13:22 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 418
+2017-06-23 14:13:22 - PHP Warning:  include_once(F:\OpenServer\domains\iPhoneService\system\storage\modification\admin\model\sale\order.php): failed to open stream: Permission denied in F:\OpenServer\domains\iPhoneService\system\storage\modification\system\engine\loader.php on line 49
+2017-06-23 14:13:22 - PHP Warning:  include_once(): Failed opening 'F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/model/sale/order.php' for inclusion (include_path='.;f:/openserver/modules/php/PHP-5.6-x64;f:/openserver/modules/php/PHP-5.6-x64/PEAR/pear') in F:\OpenServer\domains\iPhoneService\system\storage\modification\system\engine\loader.php on line 49
+2017-06-23 14:13:22 - PHP Warning:  Invalid argument supplied for foreach() in F:\OpenServer\domains\iPhoneService\system\storage\modification\system\engine\loader.php on line 53
+2017-06-23 14:13:24 - PHP Warning:  include_once(F:\OpenServer\domains\iPhoneService\system\storage\modification\admin\model\sale\order.php): failed to open stream: Permission denied in F:\OpenServer\domains\iPhoneService\system\storage\modification\system\engine\loader.php on line 49
+2017-06-23 14:13:24 - PHP Warning:  include_once(): Failed opening 'F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/model/sale/order.php' for inclusion (include_path='.;f:/openserver/modules/php/PHP-5.6-x64;f:/openserver/modules/php/PHP-5.6-x64/PEAR/pear') in F:\OpenServer\domains\iPhoneService\system\storage\modification\system\engine\loader.php on line 49
+2017-06-23 14:13:24 - PHP Warning:  Invalid argument supplied for foreach() in F:\OpenServer\domains\iPhoneService\system\storage\modification\system\engine\loader.php on line 53
+2017-06-23 14:13:31 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/sale): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:13:31 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/catalog): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:13:31 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:13:31 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:13:31 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/sale/order.php): failed to open stream: Permission denied in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 414
+2017-06-23 14:13:31 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 416
+2017-06-23 14:13:31 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 418
+2017-06-23 14:13:31 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/catalog/manufacturer.php): failed to open stream: Permission denied in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 414
+2017-06-23 14:13:31 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 416
+2017-06-23 14:13:31 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 418
+2017-06-23 14:13:39 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/model/sale): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:13:39 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/model): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:13:39 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:13:39 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/model/sale/order.php): failed to open stream: Permission denied in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 414
+2017-06-23 14:13:39 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 416
+2017-06-23 14:13:39 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 418
+2017-06-23 14:13:39 - PHP Warning:  include_once(F:\OpenServer\domains\iPhoneService\system\storage\modification\admin\model\sale\order.php): failed to open stream: Permission denied in F:\OpenServer\domains\iPhoneService\system\storage\modification\system\engine\loader.php on line 49
+2017-06-23 14:13:39 - PHP Warning:  include_once(): Failed opening 'F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/model/sale/order.php' for inclusion (include_path='.;f:/openserver/modules/php/PHP-5.6-x64;f:/openserver/modules/php/PHP-5.6-x64/PEAR/pear') in F:\OpenServer\domains\iPhoneService\system\storage\modification\system\engine\loader.php on line 49
+2017-06-23 14:13:39 - PHP Warning:  Invalid argument supplied for foreach() in F:\OpenServer\domains\iPhoneService\system\storage\modification\system\engine\loader.php on line 53
+2017-06-23 14:13:43 - PHP Notice:  Undefined variable: server in F:\OpenServer\domains\iPhoneService\system\storage\modification\catalog\controller\common\footer.php on line 6
+2017-06-23 14:13:43 - PHP Notice:  Undefined variable: og_url in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 9
+2017-06-23 14:13:43 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 9
+2017-06-23 14:13:43 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 10
+2017-06-23 14:13:43 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 10
+2017-06-23 14:14:51 - PHP Notice:  Undefined variable: server in F:\OpenServer\domains\iPhoneService\system\storage\modification\catalog\controller\common\footer.php on line 6
+2017-06-23 14:14:51 - PHP Notice:  Undefined variable: og_url in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 9
+2017-06-23 14:14:51 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 9
+2017-06-23 14:14:51 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 10
+2017-06-23 14:14:51 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 10
+2017-06-23 14:23:37 - PHP Notice:  Undefined variable: server in F:\OpenServer\domains\iPhoneService\system\storage\modification\catalog\controller\common\footer.php on line 6
+2017-06-23 14:23:37 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 9
+2017-06-23 14:23:37 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 10
+2017-06-23 14:30:01 - PHP Notice:  Undefined variable: server in F:\OpenServer\domains\iPhoneService\system\storage\modification\catalog\controller\common\footer.php on line 6
+2017-06-23 14:30:01 - PHP Notice:  Undefined variable: home in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 9
+2017-06-23 14:30:01 - PHP Notice:  Undefined variable: name in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\common\footer.tpl on line 10
+2017-06-23 14:30:42 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/sale): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:30:42 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:30:42 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:30:42 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/sale/order.php): failed to open stream: Permission denied in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 414
+2017-06-23 14:30:42 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 416
+2017-06-23 14:30:42 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 418
+2017-06-23 14:30:50 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/catalog): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:30:50 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:30:50 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:30:50 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/catalog/manufacturer.php): failed to open stream: Permission denied in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 414
+2017-06-23 14:30:50 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 416
+2017-06-23 14:30:50 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 418
+2017-06-23 14:30:58 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/sale): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:30:58 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:30:58 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-23 14:30:58 - PHP Warning:  fopen(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/sale/order.php): failed to open stream: Permission denied in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 414
+2017-06-23 14:30:58 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 416
+2017-06-23 14:30:58 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 418
