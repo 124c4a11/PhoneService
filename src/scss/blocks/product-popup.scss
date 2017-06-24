@@ -4,8 +4,16 @@
 
 .product-popup {
   position: relative;
+  display: none;
   max-width: 320px;
   padding: 25px 15px;
   margin: auto;
+  text-align: center;
   background-color: #fff;
+}
+
+.mfp-content {
+  .product-popup {
+    display: block;
+  }
 }

@@ -2,16 +2,11 @@
   callback
 ==========================================================================*/
 
-.callback {
-  text-align: center;
-}
-
 .callback__title {
   margin-top: 0;
   margin-bottom: 10px;
   font-size: 28px;
   @include myriad(thin);
-  text-align: center;
 }
 
 .callback__description {

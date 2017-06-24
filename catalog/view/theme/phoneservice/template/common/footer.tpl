@@ -66,30 +66,30 @@
 
 </footer>
 
-<div class="hidden">
-  <div id="callback" class="callback product-popup">
-    <h2 class="callback__title">Заказать звонок</h2>
-    <div class="callback__description">
-      <p>Введите номер телефона и наш менеджер перезвонит Вам в течение <strong>15 минут</strong>.</p>
+
+<div id="callback" class="callback product-popup">
+  <h2 class="callback__title">Заказать звонок</h2>
+  <div class="callback__description">
+    <p>Введите номер телефона и наш менеджер перезвонит Вам в течение <strong>15 минут</strong>.</p>
+  </div>
+
+  <form class="callback__form ajax-form">
+    <!-- Hidden Required Fields -->
+    <input type="hidden" name="project_name" value="IPhoneService">
+    <input type="hidden" name="admin_email" value="<?php echo $email; ?>">
+    <input type="hidden" name="form_subject" value="Заявка с сайта Айфонсервис">
+    <!-- END Hidden Required Fields -->
+
+    <div class="callback__form-group">
+      <input class="form-control" type="text" name="Телефон" placeholder="Введите ваш телефон..." required>
+      <button class="callback__btn btn btn-primary">Заказать</button>
     </div>
+  </form>
 
-    <form class="callback__form ajax-form">
-      <!-- Hidden Required Fields -->
-      <input type="hidden" name="project_name" value="IPhoneService">
-      <input type="hidden" name="admin_email" value="<?php echo $email; ?>">
-      <input type="hidden" name="form_subject" value="Заявка с сайта Айфонсервис">
-      <!-- END Hidden Required Fields -->
-
-      <div class="callback__form-group">
-        <input class="form-control" type="text" name="Телефон" placeholder="Введите ваш телефон..." required>
-        <button class="callback__btn btn btn-primary">Заказать</button>
-      </div>
-    </form>
-
-    <div class="callback__succes">
-      <div class="callback__succes-text">Спасибо за заявку!</div>
-    </div>
+  <div class="callback__succes">
+    <div class="callback__succes-text">Спасибо за заявку!</div>
   </div>
 </div>
+
 
 </body></html>
