@@ -57,7 +57,7 @@
         <div class="col-sm-12">
 
           <div class="main-footer__phone"><?php echo $telephone; ?></div>
-          <a class="main-footer__callback-link" href="#callback">Заказать звонок</a>
+          <a class="main-footer__callback-link callback-link" href="#callback">Заказать звонок</a>
 
         </div>
       </div>
@@ -66,22 +66,24 @@
 
 </footer>
 
-<div id="callback" class="callback product-popup">
-  <form class="ajax-form">
-    <h2>Заказать звонок</h2>
-    <p>Введите номер телефона и наш менеджер перезвонит Вам в течение <strong>15 минут</strong>.</p>
+<div class="hidden">
+  <div id="callback" class="callback product-popup">
+    <form class="ajax-form">
+      <h2>Заказать звонок</h2>
+      <p>Введите номер телефона и наш менеджер перезвонит Вам в течение <strong>15 минут</strong>.</p>
 
-    <!-- Hidden Required Fields -->
-    <input type="hidden" name="project_name" value="IPhoneService">
-    <input type="hidden" name="admin_email" value="">
-    <input type="hidden" name="form_subject" value="Заявка с сайта Айфонсервис">
-    <!-- END Hidden Required Fields -->
+      <!-- Hidden Required Fields -->
+      <input type="hidden" name="project_name" value="IPhoneService">
+      <input type="hidden" name="admin_email" value="">
+      <input type="hidden" name="form_subject" value="Заявка с сайта Айфонсервис">
+      <!-- END Hidden Required Fields -->
 
-    <input class="form-control" type="text" name="Телефон" placeholder="Введите ваш телефон..." required><br>
-    <button class="btn btn-primary">Заказать</button>
-  </form>
+      <input class="form-control" type="text" name="Телефон" placeholder="Введите ваш телефон..." required><br>
+      <button class="btn btn-primary">Заказать</button>
+    </form>
 
-  <div class="succes">Спасибо за заявку!</div>
+    <div class="succes">Спасибо за заявку!</div>
+  </div>
 </div>
 
 </body></html>

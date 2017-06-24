@@ -9,4 +9,9 @@ $(document).ready(function() {
     buyInOneClick.render();
     product.init();
   }
+
+  $('.toclick, .callback-link').magnificPopup({
+    mainClass: 'mfp-zoom-in',
+    removeDelay: 500,
+  });
 });

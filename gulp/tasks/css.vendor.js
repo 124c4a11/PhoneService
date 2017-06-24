@@ -5,6 +5,6 @@ module.exports = function() {
     return $.gulp.src($.paths.cssVendor)
       .pipe($.gp.concatCss('vendor.css'))
       .pipe($.gp.csso())
-      .pipe($.gulp.dest($.config.root + '/assets/css'))
+      .pipe($.gulp.dest($.config.root + '/theme/phoneservice/stylesheet'))
   })
 };

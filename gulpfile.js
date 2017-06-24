@@ -28,7 +28,7 @@ $.gulp.task('default', $.gulp.series(
   'clean-fonts',
   $.gulp.parallel(
     'sass',
-    //'css:vendor',
+    'css:vendor',
     'sprite:png',
     'copy:image',
     'copy:fonts',

@@ -40,12 +40,19 @@
 <?php foreach ($links as $link) { ?>
 <link href="<?php echo $link['href']; ?>" rel="<?php echo $link['rel']; ?>" />
 <?php } ?>
-<link href="catalog/view/theme/phoneservice/stylesheet/stylesheet.css" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/magnific/magnific-popup.css">
+<link  rel="stylesheet" type="text/css" href="catalog/view/theme/phoneservice/stylesheet/vendor.css">
+<link  rel="stylesheet" type="text/css" href="catalog/view/theme/phoneservice/stylesheet/stylesheet.css">
+
 <?php foreach ($scripts as $script) { ?>
 <script src="<?php echo $script; ?>" type="text/javascript"></script>
 <?php } ?>
+
 <script src="catalog/view/theme/phoneservice/js/theme-common.js" type="text/javascript"></script>
+<script src="catalog/view/javascript/jquery/magnific/jquery.magnific-popup.min.js" type="text/javascript"></script>
 <script src="catalog/view/theme/phoneservice/js/theme.js" type="text/javascript"></script>
+
 <?php foreach ($analytics as $analytic) { ?>
 <?php echo $analytic; ?>
 <?php } ?>
