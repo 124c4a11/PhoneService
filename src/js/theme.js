@@ -2,6 +2,7 @@
 
 import buyInOneClick from './modules/buyInOneClick';
 import product from './modules/product';
+import ajaxForm from './modules/ajaxForm';
 
 
 $(document).ready(function() {
@@ -10,8 +11,12 @@ $(document).ready(function() {
     product.init();
   }
 
+  if ($('.ajax-form').length) {
+    ajaxForm.send();
+  }
+
   $('.toclick, .callback-link').magnificPopup({
     mainClass: 'mfp-zoom-in',
-    removeDelay: 500,
+    removalDelay: 500
   });
 });

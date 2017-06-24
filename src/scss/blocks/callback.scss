@@ -1,0 +1,47 @@
+/*==========================================================================
+  callback
+==========================================================================*/
+
+.callback {
+  text-align: center;
+}
+
+.callback__title {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 28px;
+  @include myriad(thin);
+  text-align: center;
+}
+
+.callback__description {
+  margin-bottom: 15px;
+}
+
+.callback__form-group {
+  position: relative;
+}
+
+.callback__btn {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.callback__succes {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+  display: none;
+  background-color: #fff;
+}
+
+.callback__succes-text {
+  @include transform-center;
+  width: 100%;
+  padding: 30px 20px;
+  text-transform: uppercase;
+}

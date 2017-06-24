@@ -1,11 +1,13 @@
 /*==========================================================================
-  product-popup
+  btn
 ==========================================================================*/
 
-.product-popup {
-  position: relative;
-  max-width: 320px;
-  padding: 25px 15px;
-  margin: auto;
-  background-color: #fff;
+.btn {
+  border-radius: 0;
+  transition: .25s;
+}
+
+.btn-primary {
+  border-color: $theme-color;
+  background-color: $theme-color;
 }
