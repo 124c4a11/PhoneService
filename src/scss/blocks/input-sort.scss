@@ -1,0 +1,12 @@
+/*==========================================================================
+  input-sort
+==========================================================================*/
+
+.input-group > label[for="input-sort"] {
+  padding-left: 0;
+  border: 0 none;
+  border-radius: 0;
+  font-size: 14px;
+  @include myriad(semibold);
+  background-color: transparent;
+}

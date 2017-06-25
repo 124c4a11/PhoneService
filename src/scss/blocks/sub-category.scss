@@ -1,0 +1,35 @@
+/*==========================================================================
+  sub-category
+==========================================================================*/
+
+.sub-category {
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+.sub-category__title {
+  @include inline-block(baseline);
+  margin-right: 5px;
+  font-size: 14px;
+  @include myriad(semibold);
+}
+
+.sub-category__list {
+  @include inline-block(baseline);
+  @include list-unstyled;
+}
+
+.sub-category__list-item {
+  @include inline-block;
+  margin-right: 2px;
+}
+
+.sub-category__list-item-link {
+  display: block;
+
+  &,
+  &:hover,
+  &:focus {
+    color: $text-color-base;
+  }
+}
