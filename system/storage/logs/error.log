@@ -486,3 +486,5 @@
 2017-06-25 17:31:04 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller/catalog): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
 2017-06-25 17:31:04 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin/controller): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
 2017-06-25 17:31:04 - PHP Warning:  rmdir(F:/OpenServer/domains/iPhoneService/system/storage/modification/admin): Directory not empty in F:\OpenServer\domains\iPhoneService\admin\controller\extension\modification.php on line 105
+2017-06-25 18:25:10 - PHP Notice:  Undefined variable: heading_title in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\product\category.tpl on line 17
+2017-06-25 18:25:16 - PHP Notice:  Undefined variable: heading_title in F:\OpenServer\domains\iPhoneService\catalog\view\theme\phoneservice\template\product\category.tpl on line 17
