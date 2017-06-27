@@ -1,0 +1,13 @@
+/*==========================================================================
+  price-list
+==========================================================================*/
+
+.price-list__price,
+.price-list__price_special {
+  font-size: 36px;
+  @include myriad(thin);
+}
+
+.price-list__price_old {
+  text-decoration: line-through;
+}

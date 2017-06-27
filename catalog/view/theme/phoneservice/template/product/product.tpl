@@ -23,28 +23,28 @@
         <div class="<?php echo $class; ?>">
           <h1><?php echo $heading_title; ?></h1>
           <ul class="list-unstyled">
-            <li><?php echo $text_model; ?> <?php echo $model; ?></li>
+            <li><?php echo $text_model; ?> <strong><?php echo $model; ?></strong></li>
             <?php if ($reward) { ?>
-            <li><?php echo $text_reward; ?> <?php echo $reward; ?></li>
+            <li><?php echo $text_reward; ?> <strong><?php echo $reward; ?></strong></li>
             <?php } ?>
-            <li><?php echo $text_stock; ?> <?php echo $stock; ?></li>
+            <li><?php echo $text_stock; ?> <strong><?php echo $stock; ?></strong></li>
           </ul>
           <?php if ($price) { ?>
-          <ul class="list-unstyled price-list">
+          <ul class="list-unstyled price-list product-page__price-list">
             <?php if (!$special) { ?>
-            <li>
-              <div><?php echo $price; ?></div>
+            <li class="price-list__item">
+              <div class="price-list__price_special"><?php echo $price; ?></div>
             </li>
             <?php } else { ?>
-            <li><span style="text-decoration: line-through;"><?php echo $price; ?></span></li>
-            <li>
-              <div><?php echo $special; ?></div>
+            <li class="price-list__item"><div class="price-list__price_old"><?php echo $price; ?></div></li>
+            <li class="price-list__item">
+              <div class="price-list__price"><?php echo $special; ?></div>
             </li>
             <?php } ?>
           </ul>
           <?php } ?>
 
-          <div id="product">
+          <div id="product" class= product-to-cart>
             <?php if ($recurrings) { ?>
             <hr>
             <h3><?php echo $text_payment_recurring; ?></h3>
@@ -61,10 +61,12 @@
             <div class="form-group">
               <div class="row">
                 <div class="col-xs-8">
-                  <button type="button" id="button-cart" data-loading-text="<?php echo $text_loading; ?>" class="btn btn-primary btn-lg btn-block"><?php echo $button_cart; ?></button>
+                  <div class="product-to-cart__btns">
+                    <button type="button" id="button-cart" data-loading-text="<?php echo $text_loading; ?>" class="btn btn-cta btn-lg btn-block"><?php echo $button_cart; ?></button>
+                  </div>
                 </div>
                 <div class="col-xs-4">
-                  <label class="control-label" for="input-quantity"><?php echo $entry_qty; ?></label>
+                  <label class="product-to-cart__label control-label" for="input-quantity"><?php echo $entry_qty; ?></label>
                   <input type="text" name="quantity" value="<?php echo $minimum; ?>" size="2" id="input-quantity" class="form-control" />
                   <input type="hidden" name="product_id" value="<?php echo $product_id; ?>" />
                 </div>
@@ -101,7 +103,7 @@
         <?php } ?>
         <div class="<?php echo $class; ?>">
           <?php if ($thumb || $images) { ?>
-          <ul class="thumbnails">
+          <ul class="thumbnails product-page__thumbnails">
             <?php if ($thumb) { ?>
             <li><a class="thumbnail" href="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>"><img src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li>
             <?php } ?>
@@ -272,6 +274,8 @@
       <?php echo $content_bottom; ?></div>
     <?php echo $column_right; ?></div>
 </div>
+
+
 <script type="text/javascript"><!--
 $('select[name=\'recurring_id\'], input[name="quantity"]').change(function(){
 	$.ajax({

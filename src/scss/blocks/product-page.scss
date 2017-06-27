@@ -1,0 +1,21 @@
+/*==========================================================================
+  product-page
+==========================================================================*/
+
+.product-page__price-list {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.product-page__thumbnails {
+  @include list-unstyled;
+
+  a.thumbnail {
+    border-radius: 0;
+    border-color: transparent;
+
+    &:hover {
+      border-color: #eaeaea;
+    }
+  }
+}

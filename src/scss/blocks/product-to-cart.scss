@@ -1,11 +1,13 @@
 /*==========================================================================
-  common-home
+  product-to-cart
 ==========================================================================*/
 
-.common-home {
-  #content {
-    #slideshow0 {
-      margin-bottom: 80px;
-    }
-  }
+.product-to-cart__btns {
+  padding-top: 10px;
+}
+
+.product-to-cart__label {
+  margin-bottom: 0;
+  font-weight: normal;
+  font-size: 14px;
 }
