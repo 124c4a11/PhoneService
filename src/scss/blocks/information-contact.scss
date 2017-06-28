@@ -1,0 +1,21 @@
+/*==========================================================================
+  information-contact
+==========================================================================*/
+
+.information-contact {
+  #content {
+    h3 {
+      text-align: left;
+    }
+
+    .panel {
+      address {
+        margin-bottom: 0;
+      }
+
+      .btn[target="_blank"] {
+        display: none;
+      }
+    }
+  }
+}

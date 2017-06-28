@@ -5,7 +5,7 @@ $_['heading_title']  = 'Связаться с нами';
 // Text
 $_['text_location']  = 'Наш адрес';
 $_['text_store']     = 'Наши магазины';
-$_['text_contact']   = 'Форма связи';
+$_['text_contact']   = 'Напишите нам';
 $_['text_address']   = 'Адрес';
 $_['text_telephone'] = 'Телефон';
 $_['text_fax']       = 'Факс';
